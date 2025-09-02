@@ -1,4 +1,4 @@
-public class PaboritongKanta {
+public class FavoriteSong {
     public static void main(String[] args) {
         System.out.println("Swagger so impressive and I don't need a necklace");
         System.out.println("But these b****es get impressed when you pull up in that 7");
